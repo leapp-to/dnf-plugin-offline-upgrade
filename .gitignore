@@ -1,0 +1,7 @@
+*.pyc
+*.pyo
+TAGS
+.emacs.desktop*
+*~
+build/
+libexec/dnf-utils
